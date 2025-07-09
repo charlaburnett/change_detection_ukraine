@@ -44,7 +44,7 @@ The analysis identifies radar backscatter increases likely due to **building des
 
 ## Visualization
 
-http://maps.charlaburnett.com/change_detection_mariupol.html
+[Change Detection Map] (http://maps.charlaburnett.com/change_detection_mariupol.html)
 
 
 ---
