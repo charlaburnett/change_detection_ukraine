@@ -48,7 +48,58 @@ The analysis identifies radar backscatter increases likely due to **building des
 
 
 ---
+### Extracted Events
 
+1. **Prisoner Swap and Captures:**
+   - Event: Ukrainian soldiers captured by Russia in Mariupol were released.
+   - Date: June 27, 2025
+   - Confidence: High
+
+2. **Theatre Bombing:**
+   - Event: Bombing of Mariupol theatre (referenced in multiple retrospectives)
+   - Confidence: High
+
+3. **Prison Terms for Azov Fighters:**
+   - Event: Russia sentenced Azov battalion fighters
+   - Confidence: Medium (location inferred)
+
+4. **Starvation Tactics:**
+   - Event: Accusations of Russia using hunger as a weapon during siege
+   - Date: June 12, 2024
+   - Confidence: Medium
+
+### Flagged Events Likely Causing SAR-Detected Change
+
+- **Theatre Bombing:** High structural impact
+- **Starvation Siege:** Indirect impact via infrastructure degradation
+
+### Extracted Events
+
+1. **Prisoner Swap and Captures:**
+   - Event: Ukrainian soldiers captured by Russia in Mariupol were released.
+   - Date: June 27, 2025
+   - Confidence: High
+
+2. **Theatre Bombing:**
+   - Event: Bombing of Mariupol theatre (referenced in multiple retrospectives)
+   - Confidence: High
+
+3. **Prison Terms for Azov Fighters:**
+   - Event: Russia sentenced Azov battalion fighters
+   - Confidence: Medium (location inferred)
+
+4. **Starvation Tactics:**
+   - Event: Accusations of Russia using hunger as a weapon during siege
+   - Date: June 12, 2024
+   - Confidence: Medium
+
+### Flagged Events Likely Causing SAR-Detected Change
+
+- **Theatre Bombing:** High structural impact
+- **Starvation Siege:** Indirect impact via infrastructure degradation
+  
+[Full OSINT Summary](https://github.com/charlaburnett/change_detection_ukraine/blob/main/mariupol_osint.ipynb)
+---
 ## Tools Used
 
 - [Google Earth Engine](https://earthengine.google.com/)
